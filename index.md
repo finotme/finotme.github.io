@@ -4,8 +4,12 @@ Ik ben van plan hier een paar links te zetten met actieve en inactieve spellen, 
 Hopelijk blijft deze site lightweight.
 
 Achievements:
+
+15/10/2020
+
 EU4
-  
+  * volgt nog
+
 HOI4
   * Yugoslavia
   * USA
@@ -38,5 +42,7 @@ HOI4
   * Australia
   * Chinese Warlord
   * Italy
+
+
 CK2
  _Volgt nog_
